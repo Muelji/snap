@@ -1,0 +1,30 @@
+
+.navcontain{
+    
+             width: auto;
+             margin: auto;
+
+}
+
+li{display: inline;
+   list-style: none;
+   margin-right: 5rem;
+
+}
+
+.navcon{
+    
+        height: 70px;
+        width:700px;
+        display: flex;
+
+        margin-left: 500px;
+
+             }
+             
+
+    .sna{
+              margin-top: 1px;
+              font-size: 40px;
+              font-weight: bold;
+             }
